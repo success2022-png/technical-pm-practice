@@ -10,3 +10,16 @@ What I am practising:
 
 Status:
 Learning and building.
+Sample Product Idea
+
+Product Name:
+Simple Task Tracker
+
+Problem:
+Students forget daily tasks and deadlines.
+
+Target Users:
+University students.
+
+Core Goal:
+Help users easily track and complete daily tasks.
