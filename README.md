@@ -1,2 +1,12 @@
-# technical-pm-practice
-Practising GitHub as a Technical Product Manager
+Technical Product Management Practice Repo
+
+Purpose:
+This repository is for practising GitHub as a Technical Product Manager.
+
+What I am practising:
+- Writing product documentation
+- Structuring product ideas
+- Using GitHub Issues like a real product team
+
+Status:
+Learning and building.
