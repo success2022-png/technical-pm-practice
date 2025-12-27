@@ -23,3 +23,12 @@ University students.
 
 Core Goal:
 Help users easily track and complete daily tasks.
+
+
+
+Documentation:
+
+PRD (Google Docs): [Link coming soon]
+
+Notes: This document explains the product requirements and decisions.
+
